@@ -1,0 +1,9 @@
+{
+   "version" : 2,
+   "version_date" : "2023년08월18일",
+   "noti" : false,
+    "notilist":[{
+    "title" : "공지사항",
+    "msg" : "공지사항입니다.\n가나다라"
+    }]  
+}
